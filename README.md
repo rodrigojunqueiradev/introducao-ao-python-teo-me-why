@@ -8,4 +8,5 @@ Fiz as aulas desse curso introdutório para relembrar conceitos básicos de Pyth
 - Aula 3: Introdução ao Python 03: RECEBENDO DADOS
 - Aula 4: Introdução ao Python 04: IF ELIF ELSE
 - Aula 5: Introdução ao Python 05: LAÇOS DE REPETIÇÃO
+- Aula 6: Introdução ao Python 06: Listas
 
