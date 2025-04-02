@@ -9,4 +9,10 @@ Fiz as aulas desse curso introdutório para relembrar conceitos básicos de Pyth
 - Aula 4: Introdução ao Python 04: IF ELIF ELSE
 - Aula 5: Introdução ao Python 05: LAÇOS DE REPETIÇÃO
 - Aula 6: Introdução ao Python 06: Listas
+- Aula 7: Introdução ao Python 07: Dicionários e Tuplas
+- Aula 8: 
+- Aula 9: 
+- Aula 10: 
+- Aula 11: 
+- Aula 12: 
 
