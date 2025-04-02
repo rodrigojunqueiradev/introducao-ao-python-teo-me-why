@@ -49,3 +49,5 @@ print(lista_qualquer2[2][0])
 cachorros = lista_qualquer2[2]
 print(cachorros[0])
 print(cachorros[1])
+
+# lista [start : stop]
