@@ -21,4 +21,3 @@ juros_compostos(capital=1000, taxa=13, tempo=4)
 
 # %%
 
-# Parei o vídeo em 32:58
