@@ -10,8 +10,8 @@ Fiz as aulas desse curso introdutório para relembrar conceitos básicos de Pyth
 - Aula 5: Introdução ao Python 05: LAÇOS DE REPETIÇÃO
 - Aula 6: Introdução ao Python 06: Listas
 - Aula 7: Introdução ao Python 07: Dicionários e Tuplas
-- Aula 8: 
-- Aula 9: 
+- Aula 8: Introdução ao Python 08: Criando Funções
+- Aula 9: Introdução ao Python 09: MÓDULOS
 - Aula 10: 
 - Aula 11: 
 - Aula 12: 
