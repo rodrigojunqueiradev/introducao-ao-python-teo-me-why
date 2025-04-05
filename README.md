@@ -13,5 +13,5 @@ Fiz as aulas desse curso introdutório para relembrar conceitos básicos de Pyth
 - Aula 8: Introdução ao Python 08: Criando Funções
 - Aula 9: Introdução ao Python 09: MÓDULOS
 - Aula 10: Introdução ao Python 10: Lidando com ARQUIVOS
-- Aula 11:
+- Aula 11: Introdução ao Python 11: Loteria da Babilônia
 - Aula 12:
